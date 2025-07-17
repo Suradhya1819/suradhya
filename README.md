@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm SuradhyaReddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Suradhya Reddy</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning *Bootstrap, python*
+- 🌱 I’m currently learning *DBMS, DSA*
 
 - 📫 How to reach me *coolmindedsuradhyareddy@gmail.com*
 
